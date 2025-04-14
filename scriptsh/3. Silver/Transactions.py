@@ -186,3 +186,11 @@ df_merged.createOrReplaceTempView("transactions")
 # MAGIC     current_timestamp(),
 # MAGIC     true
 # MAGIC   );
+
+# COMMAND ----------
+
+print("hello")
+
+# COMMAND ----------
+
+print("adding comments to test")
